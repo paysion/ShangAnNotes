@@ -1,0 +1,21 @@
+import React from "react";
+import TabList from "@/components/TabList";
+import FunctionList from "@/components/FunctionList";
+import Footer from "@/components/Footer";
+
+<main className={"xl:px-4 2xl:px-8 pt-4 w-screen h-full flex flex-col space-y-4 xl:flex-row"}>
+
+  {/* 题库 */}
+  <div className={"xl:flex-1 w-full h-auto rounded-md px-2 py-1"}>
+    <h1 className={"text-xl font-bold text-black"}> 题库 </h1>
+    <TabList />
+  </div>
+
+  {/* 功能列表 */}
+  <div className={"mt-0 flex flex-col space-y-4 xl:w-1/5"}>
+    <FunctionList />
+  </div>
+
+</main>
+
+<Footer />

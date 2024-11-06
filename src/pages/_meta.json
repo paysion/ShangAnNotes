@@ -1,0 +1,48 @@
+{
+  "index": {
+    "title": "介绍",
+    "theme": {
+      "breadcrumb": false
+    }
+  },
+  "prepare": "考前须知",
+  "memory": "行测必背",
+  "common": "常识判断",
+  "language": "言语理解与表达",
+  "math": "数量关系",
+  "judgment": "判断推理",
+  "material": "资料分析",
+  "essay": "申论学习",
+  "sample": "申论范文",
+  "hot": "时政热点",
+  "comment": "人民时评",
+  "practice": {
+    "title": "行测精练 ↗",
+    "type": "page",
+    "theme": {
+      "breadcrumb": false,
+      "layout": "full",
+      "footer": false
+    }
+  },
+  "rush": {
+    "title": "申论批改",
+    "type": "page",
+    "newWindow": true,
+    "theme": {
+      "breadcrumb": false,
+      "layout": "full",
+      "footer": false
+    }
+  },
+  "speed": {
+    "title": "速算练习",
+    "type": "page",
+    "newWindow": true,
+    "theme": {
+      "breadcrumb": true,
+      "layout": "full",
+      "footer": false
+    }
+  }
+}

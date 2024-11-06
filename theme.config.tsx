@@ -82,14 +82,14 @@ const config: DocsThemeConfig = {
             openGraph: {
                 type: 'website',
                 locale: 'zh_CN',
-                url: `https://www.gongkaoshangan.com${asPath}`,
+                url: `https://www.note.gongkaoshangan.com${asPath}`,
                 siteName: '上岸学堂',
             },
             // 结构化数据
             additionalLinkTags: [
                 {
                     rel: 'canonical',
-                    href: `https://www.gongkaoshangan.com${asPath}`,
+                    href: `https://www.note.gongkaoshangan.com${asPath}`,
                 },
             ],
             additionalMetaTags: [

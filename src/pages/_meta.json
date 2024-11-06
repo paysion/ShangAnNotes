@@ -19,6 +19,8 @@
   "practice": {
     "title": "行测精练 ↗",
     "type": "page",
+    "href": "https://www.gongkaoshangan.com/",
+    "newWindow": true,
     "theme": {
       "breadcrumb": false,
       "layout": "full",
@@ -28,6 +30,7 @@
   "rush": {
     "title": "申论批改",
     "type": "page",
+    "href": "https://www.gongkaoshangan.com/",
     "newWindow": true,
     "theme": {
       "breadcrumb": false,
@@ -38,6 +41,7 @@
   "speed": {
     "title": "速算练习",
     "type": "page",
+    "href": "https://www.gongkaoshangan.com/",
     "newWindow": true,
     "theme": {
       "breadcrumb": true,

@@ -39,7 +39,7 @@ def merge_markdown_files(input_dir: str, output_file: str, target_folders: list[
             if current_folder != top_folder:
                 current_folder = top_folder
                 outfile.write(f'\n# {current_folder}\n\n')
-                outfile.write('**欢迎登录[上岸学堂获取更多考公资料和免费申论批改行测辅导](https://note.gongkaoshangan.com "最好的考公学习平台")**')
+                outfile.write('**[🎁 限时福利：加入上岸学堂，即可领取价值3000元考公考编精选资料包 + AI智能行测申论辅导系统！已助力10000+考生成功上岸](https://note.gongkaoshangan.com)**')
             
             # 写入文件名作为二级标题
             # outfile.write(f'\n## {relative_path}\n\n')

@@ -77,13 +77,13 @@ const config: DocsThemeConfig = {
         const { frontMatter } = useConfig()
 
         const defaultSeo = {
-            titleTemplate: "%s - 上岸学堂",
+            titleTemplate: "%s - 上岸学堂 - 格物智源",
             description: "公务员事业编上岸指南",
             openGraph: {
                 type: 'website',
                 locale: 'zh_CN',
                 url: `https://www.note.gongkaoshangan.com${asPath}`,
-                siteName: '上岸学堂',
+                siteName: '上岸学堂-格物智源',
             },
             // 结构化数据
             additionalLinkTags: [

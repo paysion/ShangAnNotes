@@ -1,0 +1,28 @@
+.container {
+    position: relative;
+  }
+  
+  .content {
+    transition: all 300ms;
+  }
+  
+  .blurred {
+    filter: blur(12px);
+  }
+  
+  .overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .button {
+    background-color: #3b82f6;
+  }
+  
+  .button:hover {
+    background-color: #2563eb;
+    color: white;
+  }

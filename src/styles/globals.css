@@ -1,25 +1,9 @@
-@import './github-markdown.css';
-@import './highlight.css';
 
-.cards.cards {
-  gap: 2rem;
+.tailwind-scope {
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
 }
-
-.cards span {
-  margin: auto;
-}
-
-.dark .cards.cards a {
-  border-color: rgb(150, 150, 150);
-}
-
-.dark .cards.cards a:hover {
-  border-color: white;
-}
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 .ant-card .ant-card-meta-title{
   font-size: 16px !important;
@@ -48,9 +32,6 @@
   background-color: white;
 }
 
-.ant-btn.ant-btn-icon-only .anticon {
-  @apply text-sm text-gray-800 !important;
-}
 
 .ant-popover-content{
   max-width: 350px !important;

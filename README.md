@@ -1,6 +1,7 @@
 # <p align="center">🚀 ShangAnNotes</p>
 
 > [一部开源的公务员事业编考试学习指南，从报名选岗，到行测申论备考，手把手带你上岸](https://note.gongkaoshangan.com/)
+> [🔥 考公考编必读！！！如何零基础零成本上岸](https://note.gongkaoshangan.com/prepare/practice)
 
 # 考前须知
 - [公务员和事业编有什么区别？该如何选择？](./0.考前须知/4.考公还是考编？.md)

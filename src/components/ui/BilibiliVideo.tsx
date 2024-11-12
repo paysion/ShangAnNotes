@@ -18,10 +18,8 @@ export default function BilibiliVideo({ bvid }) {
             height: '100%'
           }}
           scrolling="no"
-          border="0"
-          frameborder="no"
-          framespacing="0"
-          allowfullscreen="true"
+          frameBorder="0"
+          allowFullScreen
         />
       </div>
     );

@@ -20,33 +20,18 @@
     "title": "行测精练 ↗",
     "type": "page",
     "href": "https://www.gongkaoshangan.com/",
-    "newWindow": true,
-    "theme": {
-      "breadcrumb": false,
-      "layout": "full",
-      "footer": false
-    }
+    "newWindow": true
   },
   "rush": {
     "title": "申论批改",
     "type": "page",
     "href": "https://www.gongkaoshangan.com/",
-    "newWindow": true,
-    "theme": {
-      "breadcrumb": false,
-      "layout": "full",
-      "footer": false
-    }
+    "newWindow": true
   },
   "speed": {
     "title": "速算练习",
     "type": "page",
     "href": "https://www.gongkaoshangan.com/",
-    "newWindow": true,
-    "theme": {
-      "breadcrumb": true,
-      "layout": "full",
-      "footer": false
-    }
+    "newWindow": true
   }
 }

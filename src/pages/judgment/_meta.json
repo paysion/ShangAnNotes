@@ -1,5 +1,6 @@
 {
-    "basic": "基础知识",
+    "basic": "概述",
+    "analogical": "类比推理",
     "logic": "逻辑判断",
     "graph": "图形推理"
 }

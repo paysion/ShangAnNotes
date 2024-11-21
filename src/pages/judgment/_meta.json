@@ -1,6 +1,7 @@
 {
     "basic": "概述",
     "analogical": "类比推理",
+    "definition": "定义判断",
     "logic": "逻辑判断",
     "graph": "图形推理"
 }
